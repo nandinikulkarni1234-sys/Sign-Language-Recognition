@@ -40,11 +40,11 @@ HandSignDetection/ │ ├── app.py ├── datacollection/ ├── Mode
 ## ▶️ How to Run the Project
 
 ### Step 1: Install Required Libraries
-```bash
+bash
 pip install -r requirements.txt
 
-**### Step 2: Run the application**
-```bash
+### Step 2: Run the application
+bash
 streamlit run app.py
 
 
