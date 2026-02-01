@@ -1,0 +1,7 @@
+/* index.css — basic global styles */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f5f7fa;
+  font-family: Arial, sans-serif;
+}
