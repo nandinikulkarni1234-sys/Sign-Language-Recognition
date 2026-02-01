@@ -48,18 +48,18 @@ bash
 streamlit run app.py
 
 
-**📊 Output**
+**##📊 Output**
 1. Real-time hand gesture detection using webcam.
 2. Recognition of ISL alphabets and digits.
 3. Display of recognized sign on the screen.
 4. Audio output of the detected gesture.
 
-**⚠️ Limitations**
+**##⚠️ Limitations**
 - Requires proper lighting conditions.
 - Accuracy may decrease with complex backgrounds.
 - Limited to predefined alphabets and digits.
 
-**🚀 Future Enhancements**
+**##🚀 Future Enhancements**
 . Recognition of full words and sentences.
 . Support for dynamic gestures.
 . Mobile application implementation.
